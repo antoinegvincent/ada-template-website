@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+title: Wikispeedia : A glimpse of the human brain
+description: A template website for ADA, project-abrakadada
 show_downloads: True
 navigation:
-  - title: Projet-abrakadada
+  - title:
     url: /
-  - title: Wikispeedia : A glimpse of the human brain
+  - title:
     url: example
